@@ -9,7 +9,6 @@
 </p>
 
 
-
 <div align="center">
 
 [![](https://img.shields.io/github/stars/Ganzhenliang?style=flat&logo=github)](https://github.com/Ganzhenliang)
@@ -22,7 +21,7 @@
 
 ### 👋 你好，我是甘振良
 
-现为 **复旦大学多媒体智能安全实验室 2023 级直博生**，导师是 [张新鹏教授](https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768)，我的主要研究方向是 **AI安全与AIGC水印**。
+现为 **复旦大学多媒体智能安全实验室 2023 级直博生**，导师是 [张新鹏教授](https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768)，我的主要研究方向是 **AIGC安全**。
 
 - 关注 **AIGC 图像可信生成与篡改防护**，探索“生成即确权、修改可定位”的内容安全溯源机制。
 
@@ -39,9 +38,8 @@
 
 ![](https://img.shields.io/badge/Python-white?logo=python) 
 ![](https://img.shields.io/badge/PyTorch-white?logo=pytorch) 
-![](https://img.shields.io/badge/Stable%20Diffusion-white?logo=artstation) 
+![](https://img.shields.io/badge/AIGC-white?logo=artstation) 
 ![](https://img.shields.io/badge/Git-white?logo=git) 
-![](https://img.shields.io/badge/LaTeX-white?logo=latex)
 
 ---
 
