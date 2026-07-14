@@ -37,11 +37,11 @@
 
 ### 🚀 技术专长
 
-![](https://img.shields.io/badge/Python-blue?logo=python) 
-![](https://img.shields.io/badge/PyTorch-lightgrey?logo=pytorch) 
-![](https://img.shields.io/badge/Stable%20Diffusion-darkblue?logo=artstation) 
-![](https://img.shields.io/badge/Git-black?logo=git) 
-![](https://img.shields.io/badge/LaTeX-blue?logo=latex)
+![](https://img.shields.io/badge/Python-white?logo=python) 
+![](https://img.shields.io/badge/PyTorch-white?logo=pytorch) 
+![](https://img.shields.io/badge/Stable%20Diffusion-white?logo=artstation) 
+![](https://img.shields.io/badge/Git-white?logo=git) 
+![](https://img.shields.io/badge/LaTeX-white?logo=latex)
 
 ---
 
