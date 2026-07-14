@@ -28,10 +28,10 @@
 
 > 📫 **联系方式**  
 >
-> - 🏠 个人主页：[www.zlgan.top/Ultra-AcadHomepage](https://www.zlgan.top/gzl)  
-> - 📝 个人博客：[www.zlgan.top](https://www.zlgan.top)  
-> - 📄 谷歌学术：[Google Scholar](https://scholar.google.com/citations?user=Yol91yMAAAAJ&hl=zh-CN)  
-> - 📧 邮箱：zlgan23[at]m.fudan.edu.cn
+> - 🏠 个人主页：[www.zlgan.top/gzl](https://www.zlgan.top/gzl)
+> - 📝 个人博客：[www.zlgan.top](https://www.zlgan.top)
+> - 📄 谷歌学术：[Google Scholar](https://scholar.google.com/citations?user=Yol91yMAAAAJ&hl=zh-CN)
+> - 📧 邮箱：zlgan23@m.fudan.edu.cn
 
 ---
 
