@@ -4,16 +4,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=2C6BCD&center=true&vCenter=true&width=435&lines=Zhenliang+Gan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=34&pause=1100&color=2C4BF7EB&center=true&vCenter=true&width=435&lines=Zhenliang+Gan" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <div align="center">
 
 [![](https://img.shields.io/github/stars/Ganzhenliang?style=flat&logo=github)](https://github.com/Ganzhenliang)
 [![](https://img.shields.io/badge/Google%20Scholar-Zhenliang%20Gan-blue?logo=google-scholar&link=https://scholar.google.com/citations?user=Yol91yMAAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=Yol91yMAAAAJ&hl=zh-CN)
-[![](https://img.shields.io/badge/Academic%20Homepage-Ultra--AcadHomepage-informational?logo=github&link=https://www.zlgan.top/Ultra-AcadHomepage)](https://www.zlgan.top/Ultra-AcadHomepage)
+[![](https://img.shields.io/badge/Homepage-zlgan.top-informational?logo=github&link=https://www.zlgan.top/gzl)](https://www.zlgan.top/gzl)
 
 </div>
 
@@ -47,10 +48,8 @@
 ### 📈 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganzhenliang&show_icons=true&theme=default&hide_title=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganzhenliang&theme=default" width="48%"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ganzhenliang&theme=default&hide_border=true&date_format=%5BY.%5Dn.j" alt="Zhenliang Gan's GitHub Streak" />
 </div>
-
 
 ---
 
